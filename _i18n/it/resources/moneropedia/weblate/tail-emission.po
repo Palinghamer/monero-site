@@ -41,7 +41,7 @@ msgstr ""
 
 #. type: Plain text
 #: ../_i18n/en/resources/moneropedia/tail-emission.md:11
-msgid "Monero block rewards will never drop to zero. Block rewards will gradually drop until tail emission commences at the end of May 2022. At this point, rewards will be fixed at 0.6 XMR per block."
+msgid "Monero block rewards will never drop to zero. The block rewards gradually dropped until on June 8, 2022, tail emissions commenced. This means that the reward has been fixed at 0.6 XMR per block and will remain there for good. "
 msgstr ""
 
 #. type: Title ###
